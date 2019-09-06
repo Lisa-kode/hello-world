@@ -9,7 +9,7 @@ Se mere på denne [hjemmeside](https://www.dr.dk/)
 
 1. Liste et. 
 2. Liste to
-  * underpunkt.
+  * underpunkt kan ikke laves med mindre det er i samme stil, altså skal det fortæstte som tal, eller som punkter hele vejen igennem.
 
 - punkt 1
 - punkt 2
