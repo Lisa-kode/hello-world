@@ -28,5 +28,5 @@ Se mere på denne [hjemmeside](https://www.dr.dk/)
 ``endnu en lang kode
 ``
 
-[x]
-[ ]
+- [x] Opgaven er klaret
+- [ ] Opgaven mangler
