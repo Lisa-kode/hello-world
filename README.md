@@ -11,7 +11,6 @@ Se mere på denne [hjemmeside](https://www.dr.dk/)
 2. Liste to.
   * underpunkt. 
 
-
-* kat
-  * hund
-  
+- punkt 1
+- punkt 2
+  - punkt 3
