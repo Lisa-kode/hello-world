@@ -15,5 +15,9 @@ Se mere på denne [hjemmeside](https://www.dr.dk/)
 - punkt 2
   - punkt 3
   
+  ##Her er et billede af et æble!
+  
   ![æble](https://madkurven.dk/wp-content/uploads/royal_gala_aebler_2.png)
+  
+  >Æbler smager godt. - sagde pæren.
  
