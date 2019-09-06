@@ -21,3 +21,9 @@ Se mere på denne [hjemmeside](https://www.dr.dk/)
   
 >Æbler smager godt. - sagde pæren.
  
+
+```lang kode
+```
+
+``endnu en lang kode
+``
