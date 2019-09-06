@@ -30,3 +30,7 @@ Se mere på denne [hjemmeside](https://www.dr.dk/)
 
 - [x] Opgaven er klaret
 - [ ] Opgaven mangler
+
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
