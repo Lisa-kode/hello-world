@@ -16,5 +16,5 @@ Se mere på denne [hjemmeside](https://www.dr.dk/)
   - punkt 3
   
   ![æble]
-  (https://www.nemlig.com/aeble-royal-gala-oeko-5004539)
+  (https://www.nemlig.com/aeble-royal-gala-oeko-5004539.png)
 
