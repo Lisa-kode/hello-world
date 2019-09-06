@@ -32,5 +32,3 @@ Se mere på denne [hjemmeside](https://www.dr.dk/)
 - [ ] Opgaven mangler
 
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
