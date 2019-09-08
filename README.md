@@ -32,3 +32,10 @@ Se mere på denne [hjemmeside](https://www.dr.dk/)
 - [ ] Opgaven mangler
 
 
+// Input fra brugeren
+        Scanner s = new Scanner(System.in);
+        System.out.println("Skriv dit input: ");
+        String input = s.next();
+        System.out.println("Du har skrevet " + input);
+
+
